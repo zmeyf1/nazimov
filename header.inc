@@ -1,7 +1,7 @@
 <html>
 <head>
  <title>РГТЭУ Кемеровский институт</title>
- <meta http-equiv="Content-Type" content="text/html">
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
  <META name="Author" content="http://ailus.ru"><meta name="Copyright" content="http://ailus.ru">
 </head>
 
