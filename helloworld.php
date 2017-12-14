@@ -4,7 +4,7 @@ require('header.inc');
 
 <html>
 <head>
-  <title>Автозапча222222222сти от Боба - Результаты заказа</title>
+  <title>Автозапчасти от Боба - Результаты заказа</title>
 </head>
 <body>
 
