@@ -4,3 +4,8 @@ api_version: 1
 handlers:
 - url: /.*
   script: helloworld.php
+  script: footer.inc
+  script: header.inc
+  script: index.php
+  script: orderform.php
+  script: processorder.php
